@@ -1,3 +1,8 @@
 a, li:hover{
   color:green;
 }
+body, main{display: flex;}
+body{flex-direction: column;}
+main{flex: auto;}
+aside{flex: 1;}
+article{flex: 3;}
